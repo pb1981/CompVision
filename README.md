@@ -3,6 +3,7 @@ Initial Code for  Face Recognition using Camera based on Trained images.
 
 # Installing the dependencies:
 pip install -r requirements.txt
+pip install opencv-contrib-python --upgrade
 
 # Major Components:
 1. Train with sample face images and ceating a trained.yml with labels
